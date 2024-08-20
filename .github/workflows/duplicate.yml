@@ -1,7 +1,4 @@
-name: duplicar
-on: pull_request
-
-name: Duplicate Issue
+name: Duplicate Issue on Comment
 
 on:
   issue_comment:
